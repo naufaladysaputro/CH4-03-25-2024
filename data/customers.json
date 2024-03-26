@@ -1,0 +1,56 @@
+[
+    {
+      "_id": "65fda580702db37beca5a418",
+      "name": "Richmond Jennings",
+      "email": "richmondjennings@printspan.com",
+      "role": "admin",
+      "active": true,
+      "photo": "user-2.jpg",
+      "password": ""
+    },
+    {
+      "_id": "65fda58059c66a3e03e6c27f",
+      "name": "Stacey Cross",
+      "email": "staceycross@printspan.com",
+      "role": "admin",
+      "active": true,
+      "photo": "user-3.jpg",
+      "password": ""
+    },
+    {
+      "_id": "65fda580eb38d9f7ba540637",
+      "name": "Richard Serrano",
+      "email": "richardserrano@printspan.com",
+      "role": "admin",
+      "active": true,
+      "photo": "user-5.jpg",
+      "password": ""
+    },
+    {
+      "_id": "65fda5808dbd8d4f9137d1d9",
+      "name": "Kimberly Summers",
+      "email": "kimberlysummers@printspan.com",
+      "role": "admin",
+      "active": true,
+      "photo": "user-2.jpg",
+      "password": ""
+    },
+    {
+      "_id": "65fda580b1d16e01715872c5",
+      "name": "Mccarthy Lamb",
+      "email": "mccarthylamb@printspan.com",
+      "role": "user",
+      "active": true,
+      "photo": "user-5.jpg",
+      "password": ""
+    },
+    {
+      "_id": "65fda58081db9e8e9566a72b",
+      "name": "Ochoa Harper",
+      "email": "ochoaharper@printspan.com",
+      "role": "admin",
+      "active": false,
+      "photo": "user-3.jpg",
+      "password": ""
+    }
+  ]
